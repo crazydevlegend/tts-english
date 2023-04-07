@@ -1,0 +1,4 @@
+As a highly skilled and experienced machine learning engineer with a focus on computer vision specifically GANs and CNNs, I offer a unique combination of technical expertise and versatility.
+With a deep understanding of various machine learning algorithms, tools and frameworks such as TensorFlow, PyTorch, and scikit-learn, I have a proven track record of delivering real-world projects in areas such as image classification, time series forecasting, NLP, and recommender systems.
+My experience with big data and distributed computing allows me to scale models to handle vast amounts of data.
+I have vast experience with full-stack & blockchain development as well.
